@@ -157,4 +157,7 @@ def get_language(message):
 
 
 
-bot.polling()                                                                                                                                                                                                                                                       
+bot.polling()        
+
+
+# hello my name is translate_bot
